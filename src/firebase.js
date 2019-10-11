@@ -1,10 +1,11 @@
 import firebase from 'firebase';
 
+// add the values and get rolling
 const config = {
   apiKey: '',
   authDomain: '',
   databaseURL: '',
-  storageBucket: '',
+  storageBucket: 'social-animals-2019.appspot.com',
   messagingSenderId: ''
 };
 
